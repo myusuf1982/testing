@@ -1,2 +1,2 @@
-var budi = "didi"
+var budi = "wati"
 console.log(budi)
